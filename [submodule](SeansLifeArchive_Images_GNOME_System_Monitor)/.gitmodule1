@@ -1,0 +1,5 @@
+# I don't know how to create Git submodules, any help is appreciated
+
+[submodule "GNOME_System_Monitor"]
+	path = GNOME_System_Monitor
+	url = https://github.com/seanpm2001/SeansLifeArchive_Images_GNOME_System_Monitor
