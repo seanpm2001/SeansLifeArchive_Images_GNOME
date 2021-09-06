@@ -1,0 +1,33 @@
+# Start of script
+
+# gnome sYSTEM MINITOR
+[submodule "GNOME/System-Monitor"]
+  path = /GNOME-DE/System-MOoitor/GitHub/
+  url = https://github.com/GNOME/gnome-system-monitor
+  path = /GNOME-DE/System-Monitor/GitLab/
+  url = https://gitlab.gnome.org/GNOME/gnome-system-monitor
+
+[submodule "GNOME/System-Monitor"]
+  path = /GNOME-DE/Images/
+  url: https://github.com/seanpm2001/SeansLifeArchive_Images_GNOME_System_Monitor
+
+[submodule "Transmittion BitTorrent Client"]
+  path = /TransmissionTorrent/GitHub/
+  url:  https://github.com/seanpm2001/SeansLifeArchive_Images_Transmission_-BitTorrent-Client-
+
+[submodule "GNOME Desktop"]
+  path = /GNOME-de/GNOME/Images/
+  url:  https://github.com/seanpm2001/SeansLifeArchive_Images_GNOME
+
+[submodule "GNOME Solitaire"]
+  path = /GNOME-de/GNOME/Games/Solitaire/Images/
+  url:  https://github.com/seanpm2001/SeansLifeArchive_Images_GNOME_Solitaire
+ 
+# Submodule count: 5 (or 6, depending on how you count it)
+
+# File info
+# File type: gitmodules submodule file (*.gitmodules)
+# File version: 1 (Monday, 2021 September 6th at 4:03 pm)
+# Line count (including blank lines and compiler line): 34
+
+# End of script
